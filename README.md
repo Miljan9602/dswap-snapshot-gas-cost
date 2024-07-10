@@ -10,7 +10,7 @@ commit to your repository.
 ## Usage
 
 ```typescript
-import snapshotGasCost from '@uniswap/snapshot-gas-cost'
+import snapshotGasCost from '@miljan9602/dswap-snapshot-gas-cost'
 import {Contract} from "@ethersproject/contracts";
 
 describe('gas tests', () => {
